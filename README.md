@@ -5,6 +5,7 @@
 **正式版：<https://ys-a11y-cjj.github.io/Celestialsphere_teacher/>**
 
 作者：張淵淑（臺北市立中山女子高級中學）
+使用Claude Opus 5協作
 
 ## 使用方式
 
